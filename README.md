@@ -1,6 +1,6 @@
 # fiji-plugin-Multiple-JP2-to-RGB
 
-This is a fiji plugin that convert jp2 iamges to 3 splitted colors red,green and blue and save them in folder with similar structure.
+This is a fiji plugin that convert jp2 imeges to 3 splitted colors red,green and blue and save them in folder with similar structure.
 additionally it's merge all the layers together.
 
 Installation: 
